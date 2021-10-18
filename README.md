@@ -13,3 +13,7 @@ Each of these conclusions can be seen clearly on the table and graph below.
 ![](analysis/PyBer_table.png)
 ![](analysis/PyBer_fare_summary.png)
 
+## Summary
+From these results, we can adjust or implament business decisions to better capitalize on better performing cities.
+1. With inherent limitations of rural cities, I do not believe it would be a wise strategy to orient a growth strategy around rural cities, at least until rural cities show more intest in ride-sharing. That said, there is clearly higher fares in rural areas, and more rides than drivers. PyBer could run a promotion to temporarily offer incentives to bring in more drivers and temporarily reduce ride prices to build up a customer base. If both of these could happen, the rural cities could bring in significantly more revenue.
+2. On the opposite end of the spectrum, urban cities performed well, but there is room for growth.
